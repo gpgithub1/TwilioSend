@@ -32,11 +32,11 @@ $client = new Client($account_sid, $auth_token);
  
 $client->messages->create( 
  
-'+19173885926', 
+'+1917 349 0168', 
  
 array( 
  
-// 'To' => "+19173885926", 
+// 'To' => "+1917 349 0168", 
  
 'From' => "+12408061013", 
  
